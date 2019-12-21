@@ -45,3 +45,5 @@ to train the model for each dataset reported in the paper. The names of
 补充：
 
 原文翻译： https://blog.csdn.net/u013972559/article/details/85230111
+
+基本概念和公式推导： https://blog.csdn.net/stalbo/article/details/79283399
