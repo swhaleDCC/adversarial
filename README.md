@@ -1,14 +1,11 @@
 Generative Adversarial Networks
 ===============================
 
-This repository contains the code and hyperparameters for the paper:
+这个仓库包括代码和论文翻译PDF：
 
 "Generative Adversarial Networks." Ian J. Goodfellow, Jean Pouget-Abadie,
 Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville,
 Yoshua Bengio. ArXiv 2014.
-
-Please cite this paper if you use the code in this repository as part of
-a published research project.
 
 We are an academic lab, not a software company, and have no personnel
 devoted to documenting and maintaing this research code.
@@ -41,6 +38,7 @@ Call pylearn2/scripts/train.py on the various yaml files in this repository
 to train the model for each dataset reported in the paper. The names of
 *.yaml are fairly self-explanatory.
 
+***
 
 补充：
 
