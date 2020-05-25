@@ -1,6 +1,5 @@
 Generative Adversarial Networks
 ===============================
-dev0525
 
 包括源码、原文PDF、论文翻译PDF：
 
