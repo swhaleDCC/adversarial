@@ -1,7 +1,7 @@
 Generative Adversarial Networks
 ===============================
 
-包括源码、原文PDF、论文翻译PDF：
+源码、原文PDF、论文翻译PDF：
 
 "Generative Adversarial Networks." Ian J. Goodfellow, Jean Pouget-Abadie,
 Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville,
